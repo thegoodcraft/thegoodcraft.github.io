@@ -53,3 +53,4 @@ $(document).scroll(function() {
     else {$('.nav-item').removeClass('active-nav')}
 
 });
+

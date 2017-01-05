@@ -170,7 +170,7 @@ nav li a:hover {
 
 #banner
 {
-	background-image: url('file:///Users/bgrandy/Documents/The%20Good%20Craft/IMG/poster.jpg ');
+	background-image: url('IMG/poster.jpg ');
 	background-repeat: : no-repeat;
 	background-size: cover;
 	width: 100%;
@@ -178,7 +178,7 @@ nav li a:hover {
 }
 
 #events {
-	background-image: url('file:///Users/bgrandy/Documents/The%20Good%20Craft/IMG/watercolor-green.jpg');
+	background-image: url('IMG/watercolor-green.jpg');
 /*	background: #51B349;
 */	padding-top:30px;
 }
@@ -238,7 +238,7 @@ nav li a:hover {
   }
 
 #about {
-	background-image: url('file:///Users/bgrandy/Documents/The%20Good%20Craft/IMG/watercolor-red.jpg');
+	background-image: url('IMG/watercolor-red.jpg');
 /*	background:#00ABCC;
 */}
 .text-wrapper {
@@ -249,11 +249,11 @@ nav li a:hover {
 
 #mission {
 	background:#F6A623;
-	background-image: url('file:///Users/bgrandy/Documents/The%20Good%20Craft/IMG/watercolor-orange.jpg');
+	background-image: url('IMG/watercolor-orange.jpg');
 }
 .mission {
 	background:#F6A623;
-	background-image: url('file:///Users/bgrandy/Documents/The%20Good%20Craft/IMG/watercolor-orange.jpg');
+	background-image: url('IMG/watercolor-orange.jpg');
 }
 
 #mission-text {
@@ -261,7 +261,7 @@ nav li a:hover {
 
 }
 #charity {
-	background-image: url('file:///Users/bgrandy/Documents/The%20Good%20Craft/IMG/watercolor-blue.jpg');
+	background-image: url('IMG/watercolor-blue.jpg');
 /*	background:#FF3517;
 */
 /*background:#F6A623;*/}
