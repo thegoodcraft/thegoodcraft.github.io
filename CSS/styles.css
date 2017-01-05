@@ -200,27 +200,28 @@ nav li a:hover {
 	width: 650px;
 	margin: 0 auto;
 	padding: 50px;
-	height: 150px;
+	height: 200px;
 	box-sizing: content-box;
 }
 
 .event-date {
 	float:left;
 	width:100px;
-	height: 150px;
+	height: 120px;
 	background:white;
 	padding: 40px 20px 0px 20px;
 	text-align: center;
 	line-height: 1.2;
 	margin-right: 2px;
 	box-sizing: content-box;
+	font-family: 'BigJohn', sans-serif;
 }
 
 .event-description {
 	float:left;
 	width:450px;
-	height: 150px;
-	background:white;
+/*	height: 150px;
+*/	background:white;
 	padding:20px;
 	box-sizing: content-box;
 }
@@ -249,7 +250,9 @@ nav li a:hover {
 #about {
 	background-image: url('../IMG/watercolor-red.jpg');
 /*	background:#00ABCC;
-*/}
+*/
+	padding-top:30px;
+}
 .text-wrapper {
 	max-width: 800px;
 	margin:0 auto;
