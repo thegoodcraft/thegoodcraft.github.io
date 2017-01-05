@@ -93,6 +93,14 @@ h4 {
 	color: white;
 	line-height: 1.4;
 }
+
+a {
+	color: black;
+	text-decoration: underline;
+}
+p {
+	line-height: 1.4em;
+}
 section {
 	clear: both;
 }
