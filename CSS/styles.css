@@ -91,7 +91,7 @@ h4 {
 	font-family: 'Bitter-Regular', serif;
 	font-size:22pt;
 	color: white;
-	line-height: 1.4;
+	line-height: 1.4em;
 }
 
 a {
@@ -99,7 +99,7 @@ a {
 	text-decoration: underline;
 }
 p {
-	line-height: 1.4em;
+	line-height: 1.3em;
 }
 section {
 	clear: both;
