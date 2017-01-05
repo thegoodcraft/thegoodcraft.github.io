@@ -243,6 +243,7 @@ nav li a:hover {
 	transform: translate(-30%, -50%);
 	color: white;
 	text-align: right;
+	-webkit-text-stroke: 1px rgba(23, 23, 23, 0.4);
   }
 
 #about {
