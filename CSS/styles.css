@@ -199,7 +199,7 @@ nav li a:hover {
 .event-date {
 	float:left;
 	width:100px;
-	height: 100px;
+	height: 150px;
 	background:white;
 	padding: 40px 20px 0px 20px;
 	text-align: center;
@@ -211,7 +211,7 @@ nav li a:hover {
 .event-description {
 	float:left;
 	width:450px;
-	height: 100px;
+	height: 150px;
 	background:white;
 	padding:20px;
 	box-sizing: content-box;
