@@ -307,14 +307,14 @@ nav li a:hover {
 and (max-width: 1050px) {
 	h4 {font-size:15pt;}
 	.artist-description {
-		font-size: 26pt;
+		font-size: 24pt;
 	}
 }
 @media only screen
 and (max-width: 895px) {
 	.half {width: 50%;}
 	.artist-description {
-		font-size: 24pt;
+		font-size: 22pt;
 	}
 	h4 {
 		font-size: 13pt;
@@ -325,10 +325,17 @@ and (max-width: 895px) {
 and (max-width: 790px) {
 	.half {width: 100%;}
 	.artist-description {
-		font-size: 22pt;
+		font-size: 20pt;
 	}
 	#mission-text {
-		margin-top:0;
+		padding-top:0;
 	}
 
 }
+
+@media only screen
+and (max-width: 730px) {
+	.artist-description {
+		font-size: 18pt;
+	}
+	}
