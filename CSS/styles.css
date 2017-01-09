@@ -286,7 +286,8 @@ border-bottom:dashed;
 */
 /*background:#EF3E36
 */
-background: linear-gradient(#f5c1bf 10.15%, #ef3e36);}
+background: linear-gradient(#f5c1bf 10.15%, #ef3e36);
+padding-top:80px;}
 .mission {
 /*	background:#F6A623;
 *//*	background-image: url('../IMG/watercolor-orange.jpg');
@@ -305,6 +306,7 @@ background: linear-gradient(#f5c1bf 10.15%, #ef3e36);}
 /*background:#F6A623;*/
 /*background:#CBE368;
 */background: linear-gradient(#ec4340 12.61%, #e6bdfb);
+padding-top:200px;
 
 }
 
