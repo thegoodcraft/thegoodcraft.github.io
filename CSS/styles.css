@@ -191,8 +191,9 @@ nav li a:hover {
 /*	background-image: url('../IMG/watercolor-green.jpg');
 *//*	background: #51B349;
 */
-background:#1BD197;
-padding-top:30px;
+background: linear-gradient(#1BD197 10.15%, #f5c1bf);
+/*background:#1BD197;
+*/padding-top:30px;
 }
 .section-title {
 	text-align: center;
@@ -206,12 +207,13 @@ padding-top:30px;
 	padding: 50px;
 	height: 200px;
 	box-sizing: content-box;
+	padding-bottom: 350px;
 }
 
 .event-date {
 	float:left;
 	width:100px;
-	height: 120px;
+	height: 183px;
 	background:white;
 	padding: 40px 20px 0px 20px;
 	text-align: center;
@@ -219,6 +221,10 @@ padding-top:30px;
 	margin-right: 2px;
 	box-sizing: content-box;
 	font-family: 'BigJohn', sans-serif;
+	border-radius: 35px 0 0 35px;
+	border-left:dashed;
+border-top:dashed;
+border-bottom:dashed;
 }
 
 .event-description {
@@ -228,6 +234,10 @@ padding-top:30px;
 */	background:white;
 	padding:20px;
 	box-sizing: content-box;
+	border-radius: 0 35px 35px 0;
+	border-top:dashed;
+	border-right:dashed;
+	border-bottom:dashed;
 }
 
 /* Artist Carousel */
@@ -263,6 +273,12 @@ background:#192819;
 	margin:0 auto;
 	padding:30px;
 }
+#gathering {
+	border-radius: 0 35px 35px 0;
+border-top: dashed;
+border-right: dashed;
+border-bottom:dashed;
+}
 
 #mission {
 /*	background:#F6A623;
@@ -270,8 +286,7 @@ background:#192819;
 */
 /*background:#EF3E36
 */
-background: linear-gradient(#ef3e36 28.15%, #f5c1bf);
-}
+background: linear-gradient(#f5c1bf 10.15%, #ef3e36);}
 .mission {
 /*	background:#F6A623;
 *//*	background-image: url('../IMG/watercolor-orange.jpg');
@@ -289,7 +304,7 @@ background: linear-gradient(#ef3e36 28.15%, #f5c1bf);
 *//*	background:#FF3517; */
 /*background:#F6A623;*/
 /*background:#CBE368;
-*/background: linear-gradient(#cbe368 18.91%, #fbfbfb);
+*/background: linear-gradient(#ec4340 12.61%, #e6bdfb);
 
 }
 
