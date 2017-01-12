@@ -130,6 +130,7 @@ a {
 }
 p {
 	line-height: 1.3em;
+	font-family: 'Cardo', serif;
 }
 section {
 	clear: both;
@@ -189,18 +190,21 @@ nav li {
     }
 
 nav li a {
-	color:#003C4C;
-	font-family: 'Cardo', serif;
+	color:white;
+	font-family: 'BigJohn', sans-serif;
 	text-align: center;
 	font-size: 23px;
     display: block;
     padding: 14px 0px;
     text-decoration: none;
     border:0;
+    -webkit-text-stroke: 1px #5d5d5d;
 }
 nav li a:hover {
 	font-weight: bold;
     text-decoration: none;
+    color: black;
+
 
 }
 .active-nav {
@@ -243,9 +247,8 @@ background: linear-gradient(#1BD197 10.15%, #f5c1bf);
 .event-date {
 	float:left;
 	width:100px;
-	height: 183px;
 	background:white;
-	padding: 40px 20px 0px 20px;
+	padding: 85px 20px;
 	text-align: center;
 	line-height: 1.2;
 	margin-right: 2px;
@@ -260,8 +263,8 @@ border-bottom:dashed;
 .event-description {
 	float:left;
 	width:450px;
-/*	height: 150px;
-*/	background:white;
+	height: 200px;
+	background:white;
 	padding:20px;
 	box-sizing: content-box;
 	border-radius: 0 35px 35px 0;
