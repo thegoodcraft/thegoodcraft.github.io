@@ -248,7 +248,6 @@ background: linear-gradient(#1BD197 10.15%, #f5c1bf);
 	float:left;
 	width:100px;
 	background:white;
-	padding: 85px 20px;
 	text-align: center;
 	line-height: 1.2;
 	margin-right: 2px;
@@ -263,14 +262,18 @@ border-bottom:dashed;
 .event-description {
 	float:left;
 	width:450px;
-	height: 200px;
-	background:white;
+/*	height: 200px;
+*/	background:white;
 	padding:20px;
 	box-sizing: content-box;
 	border-radius: 0 35px 35px 0;
 	border-top:dashed;
 	border-right:dashed;
 	border-bottom:dashed;
+}
+
+.event-time {
+	padding: 85px 10px;
 }
 
 /* Artist Carousel */
