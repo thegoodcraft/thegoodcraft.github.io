@@ -320,7 +320,9 @@ border-bottom:dashed;
 /*background:#EF3E36
 */
 background: linear-gradient(#f5c1bf 10.15%, #ef3e36);
-padding-top:80px;}
+padding-top:80px;
+
+}
 .mission {
 /*	background:#F6A623;
 *//*	background-image: url('../IMG/watercolor-orange.jpg');
@@ -331,6 +333,7 @@ padding-top:80px;}
 
 #mission-text {
 	padding-top:30px;
+	    padding: 30px;
 
 }
 #charity {
@@ -372,27 +375,31 @@ padding-top:200px;
 }
 
 @media only screen
-and (max-width: 1050px) {
+and (max-width: 1100px) {
 	h4 {font-size:15pt;}
 	.artist-description {
 		font-size: 24pt;
 	}
 }
 @media only screen
-and (max-width: 895px) {
+and (max-width: 985px) {
 	.half {width: 50%;}
 	.artist-description {
 		font-size: 22pt;
 	}
 	h4 {
-		font-size: 13pt;
+		font-size: 12pt;
 		padding: 0px;
 	}
 }
 @media only screen
-and (max-width: 790px) {
+and (max-width: 850px) {
 	.half {width: 100%;}
+	#gathering {display: none;}
 	.artist-description {
+		font-size: 20pt;
+	}
+	h4 {
 		font-size: 20pt;
 	}
 	#mission-text {
