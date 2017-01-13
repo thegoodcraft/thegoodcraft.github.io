@@ -291,7 +291,7 @@ border-bottom:dashed;
   	font-size:30pt;
   	position: absolute;
 	top: 50%;
-	left: 30%;
+	left: 50%;
 	transform: translate(-30%, -50%);
 	color: white;
 	text-align: right;
@@ -416,5 +416,6 @@ and (max-width: 850px) {
 and (max-width: 730px) {
 	.artist-description {
 		font-size: 18pt;
+		left: 30%;
 	}
 	}
