@@ -3,7 +3,7 @@
 function resize() {
 
 var img = document.getElementById('gathering');
-var gatherHeight = img.height+86;
+var gatherHeight = img.height+150;
 // console.log(gatherHeight);
 $('#mission').css("height", gatherHeight);
 

@@ -42,8 +42,6 @@ table {
 
 html {
 	background:#D8D8D8;
-	min-width: 700px;
-
 }
 
 @font-face {
@@ -425,5 +423,25 @@ and (max-width: 730px) {
 	.artist-description {
 		font-size: 18pt;
 		left: 30%;
+	}
+	.nav-wrapper {
+		display: none;
+	}
+
+	#events-wrapper {
+		padding: 0;
+		height: 350px;
+	}
+	.event-date {
+		border-radius: 0;
+		display: none;
+	}
+	.event-description {
+		border-radius: 35px;
+		margin: 0 40px;
+		margin-top:50px;
+	}
+	section#mission {
+		height: 700px;
 	}
 	}
