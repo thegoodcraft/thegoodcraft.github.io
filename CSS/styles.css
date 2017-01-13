@@ -42,6 +42,7 @@ table {
 
 html {
 	background:#D8D8D8;
+	min-width: 650px;
 }
 
 @font-face {
@@ -386,7 +387,7 @@ padding-top:200px;
 
 @media only screen
 and (max-width: 1100px) {
-	h4 {font-size:15pt;}
+	h4 {font-size:17pt;}
 	.artist-description {
 		font-size: 24pt;
 	}
@@ -398,7 +399,7 @@ and (max-width: 985px) {
 		font-size: 22pt;
 	}
 	h4 {
-		font-size: 12pt;
+		font-size: 14pt;
 		padding: 0px;
 	}
 }
@@ -440,8 +441,12 @@ and (max-width: 730px) {
 		border-radius: 35px;
 		margin: 0 40px;
 		margin-top:50px;
+		border: dashed;
 	}
 	section#mission {
 		height: 700px;
+	}
+	#charity {
+		padding-top:0;
 	}
 	}
