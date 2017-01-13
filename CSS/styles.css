@@ -182,6 +182,14 @@ footer {
 	justify-content: space-between;
 	padding: 0 20px;
 }
+
+.nav-down {
+	top:0px;
+}
+.nav-up {
+	top:-54px;
+}
+
 nav li {
 	float:left;
 	white-space: nowrap;
@@ -209,8 +217,8 @@ nav li a:hover {
 
 }
 .active-nav {
-	border-bottom: 3px dashed #003C4C;
-	font-weight: bold;
+/*	border-bottom: 3px dashed #003C4C;
+*/	font-weight: bold;
 }
 
 #banner
