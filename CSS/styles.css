@@ -447,7 +447,7 @@ and (max-width: 730px) {
 		border: dashed;
 	}
 	.calendar {
-		font-size:14pt;
+		font-size:16pt;
 	}
 	section#mission {
 		height: 700px;
@@ -456,6 +456,6 @@ and (max-width: 730px) {
 		padding-top:0;
 	}
 	p {
-		font-size: 14pt;
+		font-size: 16pt;
 	}
 	}
