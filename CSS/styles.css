@@ -280,6 +280,9 @@ border-bottom:dashed;
 	border-bottom:dashed;
 }
 
+#calendar-icon {
+	float: left;
+}
 .event-time {
 	padding: 85px 10px;
 }
@@ -431,7 +434,7 @@ and (max-width: 730px) {
 
 	#events-wrapper {
 		padding: 0;
-		height: 350px;
+		height: 385px;
 	}
 	.event-date {
 		border-radius: 0;
@@ -443,10 +446,16 @@ and (max-width: 730px) {
 		margin-top:50px;
 		border: dashed;
 	}
+	.calendar {
+		font-size:14pt;
+	}
 	section#mission {
 		height: 700px;
 	}
 	#charity {
 		padding-top:0;
+	}
+	p {
+		font-size: 14pt;
 	}
 	}
