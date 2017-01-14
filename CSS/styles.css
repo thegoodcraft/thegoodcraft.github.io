@@ -211,7 +211,8 @@ nav li a {
 nav li a:hover {
 	font-weight: bold;
     text-decoration: none;
-    color: black;
+    color: #4a4a4a;
+    -webkit-text-stroke: 1px white;
 
 
 }
