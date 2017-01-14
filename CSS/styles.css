@@ -272,7 +272,7 @@ border-bottom:dashed;
 	width:520px;
 /*	height: 200px;
 */	background:white;
-	padding:20px;
+	padding: 20px 10px 20px 10px;
 	box-sizing: content-box;
 	border-radius: 0 35px 35px 0;
 	border-top:dashed;
@@ -425,7 +425,7 @@ and (max-width: 850px) {
 @media only screen
 and (max-width: 730px) {
 	.artist-description {
-		font-size: 18pt;
+		font-size: 21pt;
 		left: 30%;
 	}
 	.nav-wrapper {
@@ -434,7 +434,7 @@ and (max-width: 730px) {
 
 	#events-wrapper {
 		padding: 0;
-		height: 385px;
+		height: 410px;
 	}
 	.event-date {
 		border-radius: 0;
@@ -445,6 +445,7 @@ and (max-width: 730px) {
 		margin: 0 40px;
 		margin-top:50px;
 		border: dashed;
+		padding:20px;
 	}
 	.calendar {
 		font-size:16pt;
