@@ -166,11 +166,25 @@ footer {
 padding-left: 20px;
     margin-top: -4px;
 	background:#182819;
+	height: 150px;
 
 }
 .social-icons {
 	height: 50px;
 	padding: 10px;
+}
+.social-icons-wrapper {
+	float: right;
+	position: relative;
+	right: 20px;
+	bottom: -90px;
+}
+
+#apply {
+	float: left;
+	color: white;
+	font:14pt 'Cardo',serif;
+	padding-right:50px;
 }
 
 .nav-wrapper ul{
@@ -378,6 +392,12 @@ padding-top:200px;
 */
 	background:#182819;
 
+}
+
+.signup-wrapper {
+	background: #18281a;
+	position: absolute;
+	left:20px;
 }
 
 /*Media Queries*/
