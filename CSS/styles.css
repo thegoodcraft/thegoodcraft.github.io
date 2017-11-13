@@ -284,14 +284,14 @@ border-bottom:dashed;
 .event-description {
 	float:left;
 	width:520px;
-/*	height: 200px;
-*/	background:white;
+	background:white;
 	padding: 20px 10px 20px 10px;
 	box-sizing: content-box;
 	border-radius: 0 35px 35px 0;
 	border-top:dashed;
 	border-right:dashed;
 	border-bottom:dashed;
+	height: 232px;
 }
 
 #calendar-icon {
